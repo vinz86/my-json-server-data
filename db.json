@@ -1,8 +1,7 @@
 {
   "codiciCatastali": [
-     {"comune":"codice"},
-     {"test":"G492"}
-
-  ],
+     {"comune":"test","codice":"A123"},
+     {"comune":"Pescina","codice":"G492"} 
+],
 "profile":{"name":"typicode"}
 }
