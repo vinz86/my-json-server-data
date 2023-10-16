@@ -1,9 +1,7 @@
 {
   "codiciCatastali": [
-{"comune":"codice"},
+     {"comune":"codice"},
+     {"test":"G492"}
 
-{"test":"G492"},
-
-
-]
+  ]
 }
