@@ -1,23 +1,9 @@
 {
   "clienti": [
-{
-	"codfid" : "67800001",
-	"nominativo" : "Cliente di Prova",
-	"indirizzo" : "Via XX Settembre, 58",
-	"comune" : "Alghero",
-	"cap" : "07041",
-	"prov" : "SS",
-	"telefono" : "334-15669854",
-	"mail" : "test@tiscali.it",
-	"attivo" : true,
-	"datacreazione" : "2020-01-10",
-	"cards" : {
-		"bollini" : 100,
-		"ultimaspesa" : "2020-01-10"
-	}
-}
-   ],
-  "profile": {
-    "name": "viadmin"
-  }
+{"comune":"codice"},
+
+{"test":"G492"},
+
+
+]
 }
